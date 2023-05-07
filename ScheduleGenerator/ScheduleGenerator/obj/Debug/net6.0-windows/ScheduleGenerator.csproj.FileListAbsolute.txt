@@ -1,0 +1,17 @@
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\ScheduleGenerator.exe
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\ScheduleGenerator.deps.json
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\ScheduleGenerator.runtimeconfig.json
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\ScheduleGenerator.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\ScheduleGenerator.pdb
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.csproj.AssemblyReference.cache
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.Form1.resources
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.csproj.GenerateResource.cache
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.AssemblyInfoInputs.cache
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.AssemblyInfo.cs
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\refint\ScheduleGenerator.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.pdb
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ScheduleGenerator.genruntimeconfig.cache
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\obj\Debug\net6.0-windows\ref\ScheduleGenerator.dll
