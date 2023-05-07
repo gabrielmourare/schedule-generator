@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "puvt0h2MbnjYhNzosyeiJV05R8kIaD4CTZUi3s/tsB0Wr9NPuxfW3Zg8tNlAZwEuxvEaWtxKPWcMLAopPXeYFw==",
+  "dgSpecHash": "CIn+8FUN8DBT2d2vd6bxxUxb24rGTQC9W1lDukuwbDnzVKIOxkNvhURGiO92eTjCp2/7UEmh8NmJ6bulwQSvpw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\schedule-generator\\ScheduleGenerator\\ScheduleGenerator\\ScheduleGenerator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

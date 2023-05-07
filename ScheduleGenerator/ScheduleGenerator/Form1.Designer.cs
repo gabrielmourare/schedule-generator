@@ -35,6 +35,11 @@
             button1 = new Button();
             checkedListBox1 = new CheckedListBox();
             checkBox1 = new CheckBox();
+            dataGridView1 = new DataGridView();
+            label3 = new Label();
+            button2 = new Button();
+            button3 = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -83,7 +88,7 @@
             // 
             checkedListBox1.CheckOnClick = true;
             checkedListBox1.FormattingEnabled = true;
-            checkedListBox1.Items.AddRange(new object[] { "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo" });
+            checkedListBox1.Items.AddRange(new object[] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" });
             checkedListBox1.Location = new Point(8, 134);
             checkedListBox1.Name = "checkedListBox1";
             checkedListBox1.Size = new Size(154, 130);
@@ -100,11 +105,56 @@
             checkBox1.UseVisualStyleBackColor = true;
             checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(302, 35);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.RowTemplate.Height = 25;
+            dataGridView1.Size = new Size(556, 291);
+            dataGridView1.TabIndex = 7;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(302, 13);
+            label3.Name = "label3";
+            label3.Size = new Size(51, 15);
+            label3.TabIndex = 8;
+            label3.Text = "Preview:";
+            // 
+            // button2
+            // 
+            button2.Location = new Point(660, 332);
+            button2.Name = "button2";
+            button2.Size = new Size(99, 23);
+            button2.TabIndex = 9;
+            button2.Text = "Export to Sheet";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(765, 332);
+            button3.Name = "button3";
+            button3.Size = new Size(93, 23);
+            button3.TabIndex = 10;
+            button3.Text = "Export to PDF";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(797, 450);
+            ClientSize = new Size(888, 416);
+            Controls.Add(button3);
+            Controls.Add(button2);
+            Controls.Add(label3);
+            Controls.Add(dataGridView1);
             Controls.Add(checkBox1);
             Controls.Add(checkedListBox1);
             Controls.Add(button1);
@@ -113,7 +163,8 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Schedule Generator";
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -127,5 +178,9 @@
         private Button button1;
         private CheckedListBox checkedListBox1;
         private CheckBox checkBox1;
+        private DataGridView dataGridView1;
+        private Label label3;
+        private Button button2;
+        private Button button3;
     }
 }
