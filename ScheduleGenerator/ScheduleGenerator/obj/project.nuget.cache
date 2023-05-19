@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "CIn+8FUN8DBT2d2vd6bxxUxb24rGTQC9W1lDukuwbDnzVKIOxkNvhURGiO92eTjCp2/7UEmh8NmJ6bulwQSvpw==",
+  "dgSpecHash": "RYY/EfI6O5/320dGcXvW0wNk4Hl3SIMWaCnVeNctqt4l9IL7OsAOhZRGrV3otc9lpYqyMMCbtuss/lZ9XrBgNw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\schedule-generator\\ScheduleGenerator\\ScheduleGenerator\\ScheduleGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\questpdf\\2023.4.2\\questpdf.2023.4.2.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
   ],

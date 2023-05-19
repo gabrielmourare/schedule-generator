@@ -1,0 +1,12 @@
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\bin\Debug\net6.0\FeriadosBrasileiros.deps.json
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\bin\Debug\net6.0\FeriadosBrasileiros.dll
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\bin\Debug\net6.0\FeriadosBrasileiros.pdb
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.csproj.AssemblyReference.cache
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.AssemblyInfoInputs.cache
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.AssemblyInfo.cs
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.csproj.CoreCompileInputs.cache
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.dll
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\refint\FeriadosBrasileiros.dll
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\FeriadosBrasileiros.pdb
+D:\Projects\schedule-generator\FeriadosBrasileiros\FeriadosBrasileiros\obj\Debug\net6.0\ref\FeriadosBrasileiros.dll

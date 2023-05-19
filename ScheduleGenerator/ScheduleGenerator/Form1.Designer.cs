@@ -62,16 +62,18 @@
             // 
             // dateTimePicker1
             // 
+            dateTimePicker1.Format = DateTimePickerFormat.Short;
             dateTimePicker1.Location = new Point(8, 35);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(248, 23);
+            dateTimePicker1.Size = new Size(98, 23);
             dateTimePicker1.TabIndex = 2;
             // 
             // dateTimePicker2
             // 
+            dateTimePicker2.Format = DateTimePickerFormat.Short;
             dateTimePicker2.Location = new Point(8, 79);
             dateTimePicker2.Name = "dateTimePicker2";
-            dateTimePicker2.Size = new Size(248, 23);
+            dateTimePicker2.Size = new Size(98, 23);
             dateTimePicker2.TabIndex = 3;
             // 
             // button1
@@ -91,7 +93,7 @@
             checkedListBox1.Items.AddRange(new object[] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" });
             checkedListBox1.Location = new Point(8, 134);
             checkedListBox1.Name = "checkedListBox1";
-            checkedListBox1.Size = new Size(154, 130);
+            checkedListBox1.Size = new Size(154, 112);
             checkedListBox1.TabIndex = 5;
             // 
             // checkBox1
@@ -113,6 +115,7 @@
             dataGridView1.Location = new Point(302, 35);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
+            dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 25;
             dataGridView1.Size = new Size(556, 291);
             dataGridView1.TabIndex = 7;
@@ -128,9 +131,9 @@
             // 
             // button2
             // 
-            button2.Location = new Point(660, 332);
+            button2.Location = new Point(612, 332);
             button2.Name = "button2";
-            button2.Size = new Size(99, 23);
+            button2.Size = new Size(127, 23);
             button2.TabIndex = 9;
             button2.Text = "Export to Sheet";
             button2.UseVisualStyleBackColor = true;
@@ -138,9 +141,9 @@
             // 
             // button3
             // 
-            button3.Location = new Point(765, 332);
+            button3.Location = new Point(738, 332);
             button3.Name = "button3";
-            button3.Size = new Size(93, 23);
+            button3.Size = new Size(119, 23);
             button3.TabIndex = 10;
             button3.Text = "Export to PDF";
             button3.UseVisualStyleBackColor = true;

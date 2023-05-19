@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[2.20.0, )"
             },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2023.4.2, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[7.0.0, )"

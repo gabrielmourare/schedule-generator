@@ -23,3 +23,17 @@ D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net
 D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\System.Drawing.Common.dll
 D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\QuestPDF.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\SkiaSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\FeriadosBrasileiros.dll
+D:\Projects\schedule-generator\ScheduleGenerator\ScheduleGenerator\bin\Debug\net6.0-windows\FeriadosBrasileiros.pdb

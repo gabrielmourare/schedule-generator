@@ -10,10 +10,14 @@
 
   <ItemGroup>
     <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
+    <PackageReference Include="QuestPDF" Version="2023.4.2" />
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="FeriadosBrasileiros">
+      <HintPath>bin\FeriadosBrasileiros.dll</HintPath>
+    </Reference>
     <Reference Include="SpreadsheetLight">
       <HintPath>bin\SpreadsheetLight.dll</HintPath>
     </Reference>
