@@ -37,8 +37,10 @@ namespace ScheduleGenerator
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Feriado feriadosBR = new Feriado();
             DataTable dt = new DataTable();
             dt.Columns.Add("DATE", typeof(string));
+            dt.Columns.Add("DESC", typeof(string));
             if (checkedListBox1.CheckedItems.Count > 0)
             {
                 DateTime initialDate = dateTimePicker1.Value.Date;
@@ -70,6 +72,12 @@ namespace ScheduleGenerator
 
                             dtRow["DATE"] = day.Date.ToShortDateString();
 
+                            if (feriadosBR.IsFeriado(day) != string.Empty)
+                            {
+                                dtRow["DESC"] = feriadosBR.IsFeriado(day);
+                            }
+
+
                             dt.Rows.Add(dtRow);
                         }
 
@@ -78,10 +86,10 @@ namespace ScheduleGenerator
 
                 for (int i = 1; i < dt.Rows.Count; i++)
                 {
-                    Feriados feriados = new Feriados();
+                    Feriado feriados = new Feriado();
                    
 
-                    List<DateTime> FeriadosNacionais = (List<DateTime>)feriados.GetHolidays(DateTime.Now.Year);
+                    List<Feriado> FeriadosNacionais = feriados.GetHolidays(DateTime.Now.Year).ToList();
                                         
                     DataRow monthRow = dt.NewRow();
                     DataRow currentRow = dt.Rows[i];
@@ -147,19 +155,21 @@ namespace ScheduleGenerator
                         table.ColumnsDefinition(columns =>
                         {
                             columns.RelativeColumn();
+                            columns.RelativeColumn();
                         });
 
                         table.Header(header =>
                         {
                             header.Cell().Text("Date");
+                            header.Cell().Text("Description");
 
                         });
 
 
                         foreach (DataRow row in dt.Rows)
                         {
-
                             table.Cell().Text(row["DATE"].ToString());
+                            table.Cell().Text(row["DESC"].ToString());
                         }
 
                     });
